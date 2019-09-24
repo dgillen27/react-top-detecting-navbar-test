@@ -1,7 +1,17 @@
 {
-  "name": "react-npm-package-boilerplate",
+  "name": "react-top-detecting-navbar",
   "version": "1.0.0",
-  "description": "Boilerplate to quickstart React component development",
+  "description": "Navbar that detects when screen is at the tpo of the page",
+  "license": "MIT",
+  "repository": "dgillen27/react-top-detecting-navbar",
+  "keywords": [
+    "react",
+    "npm",
+    "navbar",
+    "dgillen27",
+    "top-detecting",
+    "ui"
+  ],
   "main": "./dist/index.js",
   "scripts": {
     "build": "webpack --config webpack.config.babel.js",
