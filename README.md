@@ -101,4 +101,4 @@ function App() {
 
 ## License
 
-MIT © Dinesh Pandiyan
+MIT © 
