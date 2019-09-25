@@ -59,10 +59,12 @@ export default function TopDetectingNavbar(props) {
   );
 }
 
-Navbar.propTypes = {
+TopDetectingNavbar.propTypes = {
   className: PropTypes.string,
   topClassName: PropTypes.string,
   height: PropTypes.number,
+  width: PropTypes.number,
   backgroundColor: PropTypes.string,
-  topBackgroundColor: PropTypes.string
+  topBackgroundColor: PropTypes.string,
+  children: PropTypes.element
 };

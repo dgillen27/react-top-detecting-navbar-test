@@ -1,3 +1,3 @@
-import TopDetectingNavBar from './TopDetectingNavbar';
+import TopDetectingNavbar from './TopDetectingNavbar';
 
-export default TopDetectingNavBar;
+export default TopDetectingNavbar;
