@@ -19,9 +19,9 @@
     "clean": "rm -rf dist coverage",
     "coverage": "jest --coverage",
     "lint": "eslint ./src",
-    "prepublish": "npm run clean && npm run test && npm run build",
+    "prepublish": "npm run clean && npm run build",
     "start": "webpack-dev-server --config examples/webpack.config.live.babel.js",
-    "test": "npm run lint && npm run coverage"
+    "test": "npm run lint"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
