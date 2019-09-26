@@ -1,6 +1,6 @@
 # react-top-detecting-navbar
 
-[![npm (scoped)](https://img.shields.io/npm/v/@dgillen27/react-top-detecting-navbars.svg)](https://github.com/dgillen27/react-top-detecting-navbar)
+[![npm (scoped)](https://img.shields.io/npm/v/@dgillen27/react-top-detecting-navbar-test.svg)](https://github.com/dgillen27/react-top-detecting-navbar)
 
 ## Installation
 

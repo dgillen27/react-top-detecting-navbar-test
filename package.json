@@ -1,6 +1,6 @@
 {
   "name": "@dgillen27/react-top-detecting-navbar-test",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "Navbar that detects when screen is at the tpo of the page",
   "license": "MIT",
   "repository": "dgillen27/react-top-detecting-navbar",
