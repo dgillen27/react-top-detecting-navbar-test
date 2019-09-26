@@ -5,13 +5,13 @@
 ## Installation
 
 ```
-$ npm install react-top-detecting-navbar
+$ npm install @dgillen27/react-top-detecting-navbar
 ```
 
 ## Basic Usage
 
 ```js
-import TopDetectingNavbar from "react-top-detecting-navbar";
+import TopDetectingNavbar from "@dgillen27/react-top-detecting-navbar";
 
 function App() {
   return <TopDetectingNavbar></TopDetectingNavbar>;
